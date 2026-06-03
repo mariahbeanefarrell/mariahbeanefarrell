@@ -11,7 +11,7 @@ Most of my work lives in private company repositories, but the types of problems
 - Operational dashboards and analytics for incident trending, SLA compliance, and escalation pattern analysis
 - Python jobs for data extraction, comparison, and automated ticket creation
 
-I'm not a software engineer by title, but I build things that make operations teams faster and less dependent on engineering bandwidth.
+I'm not a software engineer by title, but I build things that make operations teams faster.
 
 
 <!--
